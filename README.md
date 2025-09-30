@@ -23,11 +23,11 @@
 - Beckend Development
 ## 📩 MY CONTACTS & PROFILES
 ### Telegram
-- [@lampilamp](https://t.me/lampilamp)
-- [@lampilampus](https://t.me/lampilampus)
+> *[@lampilamp](https://t.me/lampilamp)*
+> *[@lampilampus](https://t.me/lampilampus)*
 ### Discord
-- @lampilamp
+> *@lampilamp*
 ### Steam
-- [lampi](https://steamcommunity.com/id/lampilamp/)
+> *[lampi](https://steamcommunity.com/id/lampilamp/)*
 ## 🫰 That's all for now, but this file will be updated.
-##### (lastest update - 30.09.2025/22:00)
+##### (lastest update - 30.09.2025/22:22)
