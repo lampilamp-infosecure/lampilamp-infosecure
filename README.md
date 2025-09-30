@@ -20,7 +20,7 @@
 ### 📋 **What I plan to study**
 - Rust
 - Python
-- Beckend Development
+- Backend Development
 ## 📩 MY CONTACTS & PROFILES
 ### Telegram
 > *[@lampilamp](https://t.me/lampilamp)*
@@ -30,5 +30,5 @@
 ### Steam
 > *[lampi](https://steamcommunity.com/id/lampilamp/)*
 ## 🫰 That's all for now, but this file will be updated.
-##### (lastest update - 30.09.2025/22:30)
+##### (lastest update - 30.09.2025/22:37)
 ![alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffree-png.ru%2Fwp-content%2Fuploads%2F2022%2F02%2Ffree-png.ru-688.png&f=1&nofb=1&ipt=0e90a5147d76ce01ad7327238739e77335de7fba3e10f1e864eb446553104db1)
